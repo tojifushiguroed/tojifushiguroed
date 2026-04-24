@@ -1,6 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Elif%20Deniz%20Gölboyu&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Capsule Render" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Elif%20Deniz%20Gölboyu&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Capsule Render" />
+
+  <h3>👩🏻‍💻 Computer Engineering Graduate</h3>
+  <p>
+    Focused on <b>Data Engineering</b>, <b>Robotics</b>, and <b>Backend Systems</b>.<br>
+    <i>Interested in building scalable systems and exploring applications in Biomedical Engineering and Health Technologies. 🧬</i>
+  </p>
 
   <br><br>
 
